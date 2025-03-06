@@ -19,6 +19,10 @@ Proyek ini adalah aplikasi web sederhana untuk menerjemahkan teks dari Bahasa In
 3. Klik tombol **Translate**.
 4. Hasil terjemahan akan ditampilkan di bawah tombol.
 
+## Demo
+- 🔗 [Klik untuk Demo](https://translate-i-dto-lt6z3lhc6-afganirwansyahhidayats-projects.vercel.app/)
+
+
 ## Struktur Proyek
 ```
 📂 project-folder
